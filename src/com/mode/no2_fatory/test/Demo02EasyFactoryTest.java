@@ -1,11 +1,11 @@
-package com.mode;
+package com.mode.no2_fatory.test;
 
 import java.util.Objects;
 
 /**
  * 简单工厂模式
  */
-public class Demo02EasyFactory {
+public class Demo02EasyFactoryTest {
     public abstract class Operation {
         private Integer a;
         private Integer b;
@@ -52,7 +52,7 @@ public class Demo02EasyFactory {
     }
 
     public static void main(String[] args) {
-        Demo02EasyFactory factory=new Demo02EasyFactory();
+        Demo02EasyFactoryTest factory=new Demo02EasyFactoryTest();
 
         Operation add = factory.createOperation("add");
         add.setA(1);

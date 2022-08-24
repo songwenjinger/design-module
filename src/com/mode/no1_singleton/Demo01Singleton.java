@@ -1,4 +1,4 @@
-package com.mode;
+package com.mode.no1_singleton;
 
 /**
  * 单例模式
