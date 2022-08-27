@@ -1,6 +1,5 @@
 package com.mode.no4_flyWeight.test;
 
-import com.mode.no3_abstractFactory.code.Shape;
 import com.mode.no4_flyWeight.code.Circle;
 import com.mode.no4_flyWeight.code.ShapeFactory;
 

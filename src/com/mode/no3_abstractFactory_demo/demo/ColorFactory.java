@@ -1,4 +1,4 @@
-package com.mode.no3_abstractFactory.code;
+package com.mode.no3_abstractFactory_demo.demo;
 
 import java.util.Objects;
 
@@ -7,6 +7,7 @@ public class ColorFactory extends AbstractFactory {
     public Shape getShape(String s) {
         return null;
     }
+
 
     @Override
     public Color getColor(String s) {

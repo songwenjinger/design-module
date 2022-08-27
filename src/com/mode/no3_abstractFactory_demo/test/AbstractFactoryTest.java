@@ -1,10 +1,9 @@
-package com.mode.no3_abstractFactory.test;
+package com.mode.no3_abstractFactory_demo.test;
 
-import com.mode.no2_fatory.code.Factory;
-import com.mode.no3_abstractFactory.code.AbstractFactory;
-import com.mode.no3_abstractFactory.code.Color;
-import com.mode.no3_abstractFactory.code.FactoryProducer;
-import com.mode.no3_abstractFactory.code.Shape;
+import com.mode.no3_abstractFactory_demo.demo.AbstractFactory;
+import com.mode.no3_abstractFactory_demo.demo.Color;
+import com.mode.no3_abstractFactory_demo.demo.FactoryProducer;
+import com.mode.no3_abstractFactory_demo.demo.Shape;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {
