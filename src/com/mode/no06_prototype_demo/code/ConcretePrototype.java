@@ -1,4 +1,4 @@
-package com.mode.no6_prototype.code;
+package com.mode.no06_prototype_demo.code;
 
 public class ConcretePrototype extends Prototype{
 

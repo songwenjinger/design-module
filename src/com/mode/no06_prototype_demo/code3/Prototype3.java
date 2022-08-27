@@ -1,6 +1,4 @@
-package com.mode.no6_prototype.code3;
-
-import com.mode.no6_prototype.code2.Prototype2;
+package com.mode.no06_prototype_demo.code3;
 
 public class Prototype3 implements Cloneable{
     private String name;

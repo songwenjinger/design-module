@@ -1,10 +1,10 @@
-package com.mode.no6_prototype.code3;
+package com.mode.no06_prototype_demo.code2;
 
-public class Work3  implements Cloneable{
+public class Work {
     public String company;
     public int salary;
 
-    public Work3(String company, int salary) {
+    public Work(String company, int salary) {
         this.company = company;
         this.salary = salary;
     }
@@ -31,10 +31,5 @@ public class Work3  implements Cloneable{
                 "company='" + company + '\'' +
                 ", salary=" + salary +
                 '}';
-    }
-
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
-        return super.clone();
     }
 }

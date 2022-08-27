@@ -1,7 +1,7 @@
-package com.mode.no6_prototype.test;
+package com.mode.no06_prototype_demo.test;
 
-import com.mode.no6_prototype.code.ConcretePrototype;
-import com.mode.no6_prototype.code.Prototype;
+import com.mode.no06_prototype_demo.code.ConcretePrototype;
+import com.mode.no06_prototype_demo.code.Prototype;
 
 /**
  *

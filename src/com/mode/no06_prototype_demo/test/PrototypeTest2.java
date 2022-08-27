@@ -1,9 +1,7 @@
-package com.mode.no6_prototype.test;
+package com.mode.no06_prototype_demo.test;
 
-import com.mode.no6_prototype.code.ConcretePrototype;
-import com.mode.no6_prototype.code.Prototype;
-import com.mode.no6_prototype.code2.Prototype2;
-import com.mode.no6_prototype.code2.Work;
+import com.mode.no06_prototype_demo.code2.Prototype2;
+import com.mode.no06_prototype_demo.code2.Work;
 
 /**
  * 浅复制，work的引用被修改
