@@ -1,7 +1,7 @@
-package com.mode.no16_composite_module.test;
+package com.mode.no16_composite_demo.test;
 
-import com.mode.no16_composite_module.code.Composite;
-import com.mode.no16_composite_module.code.Leaf;
+import com.mode.no16_composite_demo.code.Composite;
+import com.mode.no16_composite_demo.code.Leaf;
 
 public class CompositeTest {
 

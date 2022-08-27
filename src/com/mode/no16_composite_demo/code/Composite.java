@@ -1,4 +1,4 @@
-package com.mode.no16_composite_module.code;
+package com.mode.no16_composite_demo.code;
 
 import java.util.ArrayList;
 import java.util.List;
