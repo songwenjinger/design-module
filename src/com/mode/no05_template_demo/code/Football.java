@@ -1,4 +1,4 @@
-package com.mode.no5_template.code;
+package com.mode.no05_template_demo.code;
 
 public class Football extends Game {
     @Override

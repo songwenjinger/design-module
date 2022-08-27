@@ -1,7 +1,7 @@
-package com.mode.no5_template.test;
+package com.mode.no05_template_demo.test;
 
-import com.mode.no5_template.code.Basketball;
-import com.mode.no5_template.code.Game;
+import com.mode.no05_template_demo.code.Basketball;
+import com.mode.no05_template_demo.code.Game;
 
 public class TemplateTest {
     public static void main(String[] args) {
