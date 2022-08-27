@@ -1,9 +1,9 @@
-package com.mode.no2_fatory.test;
+package com.mode.no2_fatory_demo.test;
 
-import com.mode.no2_fatory.code.AddFactory;
-import com.mode.no2_fatory.code.Factory;
-import com.mode.no2_fatory.code.Operation;
-import com.mode.no2_fatory.code.SubFactory;
+import com.mode.no2_fatory_demo.code.AddFactory;
+import com.mode.no2_fatory_demo.code.Factory;
+import com.mode.no2_fatory_demo.code.Operation;
+import com.mode.no2_fatory_demo.code.SubFactory;
 
 import java.lang.reflect.InvocationTargetException;
 

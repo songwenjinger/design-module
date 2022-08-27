@@ -1,4 +1,4 @@
-package com.mode.no2_fatory.test;
+package com.mode.no2_fatory_demo.test;
 
 import java.util.Objects;
 

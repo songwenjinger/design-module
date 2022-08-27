@@ -1,4 +1,4 @@
-package com.mode.no2_fatory.code;
+package com.mode.no2_fatory_demo.code;
 
 public class Sub implements Operation {
 
