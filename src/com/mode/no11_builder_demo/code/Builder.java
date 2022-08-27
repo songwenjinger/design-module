@@ -1,4 +1,4 @@
-package com.mode.no11_builder.code;
+package com.mode.no11_builder_demo.code;
 
 public  abstract class Builder {
 

@@ -1,8 +1,8 @@
-package com.mode.no11_builder.test;
+package com.mode.no11_builder_demo.test;
 
-import com.mode.no11_builder.code.Bike;
-import com.mode.no11_builder.code.Director;
-import com.mode.no11_builder.code.OfoBuilder;
+import com.mode.no11_builder_demo.code.Bike;
+import com.mode.no11_builder_demo.code.Director;
+import com.mode.no11_builder_demo.code.OfoBuilder;
 
 public class BuilderTest {
 
