@@ -1,6 +1,6 @@
 package com.mode.no4_flyWeight.code;
 
-import com.mode.no3_abstractFactory_demo.demo.Shape;
+import com.mode.no03_abstractFactory_demo.demo.Shape;
 
 public class Circle implements Shape {
 

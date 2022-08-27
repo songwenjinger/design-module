@@ -1,4 +1,4 @@
-package com.mode.no3_abstractFactory_demo.demo;
+package com.mode.no03_abstractFactory_demo.demo;
 
 public class CircleShape implements Shape{
     @Override
