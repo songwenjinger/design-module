@@ -1,4 +1,4 @@
-package com.mode.no19_brige_demo.code;
+package com.mode.no18_brige_demo.code;
 
 public abstract class Shape {
 

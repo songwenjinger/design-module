@@ -1,9 +1,9 @@
-package com.mode.no19_brige_demo.test;
+package com.mode.no18_brige_demo.test;
 
-import com.mode.no19_brige_demo.code.Circle;
-import com.mode.no19_brige_demo.code.GreenCircle;
-import com.mode.no19_brige_demo.code.RedCircle;
-import com.mode.no19_brige_demo.code.Shape;
+import com.mode.no18_brige_demo.code.Circle;
+import com.mode.no18_brige_demo.code.GreenCircle;
+import com.mode.no18_brige_demo.code.RedCircle;
+import com.mode.no18_brige_demo.code.Shape;
 
 public class BridgeTest {
 
