@@ -1,4 +1,4 @@
-package com.mode.no14_adapter.code;
+package com.mode.no14_adapter_demo.code;
 
 public abstract class Target {
 
