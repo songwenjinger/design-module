@@ -7,6 +7,7 @@ package com.mode.no1_singleton;
  */
 public class Demo01Singleton {
 
+
     //volatile为了防止指令重排序
     private static volatile Demo01Singleton instance;
 
