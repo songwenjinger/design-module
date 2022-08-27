@@ -9,7 +9,6 @@ public class Demo02EasyFactoryTest {
     public abstract class Operation {
         private Integer a;
         private Integer b;
-
         public Integer getA() {
             return a;
         }
