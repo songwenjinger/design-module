@@ -1,4 +1,4 @@
-package com.mode.no7_strategy.code;
+package com.mode.no07_strategy_demo.code;
 
 public class OperationSub implements Strategy {
     @Override

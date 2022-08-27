@@ -1,8 +1,8 @@
-package com.mode.no7_strategy.test;
+package com.mode.no07_strategy_demo.test;
 
-import com.mode.no7_strategy.code.Context;
-import com.mode.no7_strategy.code.OperationAdd;
-import com.mode.no7_strategy.code.OperationSub;
+import com.mode.no07_strategy_demo.code.Context;
+import com.mode.no07_strategy_demo.code.OperationAdd;
+import com.mode.no07_strategy_demo.code.OperationSub;
 
 public class StrategyTest {
 
