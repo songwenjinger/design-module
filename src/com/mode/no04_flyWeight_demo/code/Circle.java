@@ -1,4 +1,4 @@
-package com.mode.no4_flyWeight.code;
+package com.mode.no04_flyWeight_demo.code;
 
 import com.mode.no03_abstractFactory_demo.demo.Shape;
 

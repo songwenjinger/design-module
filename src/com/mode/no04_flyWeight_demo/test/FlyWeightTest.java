@@ -1,7 +1,7 @@
-package com.mode.no4_flyWeight.test;
+package com.mode.no04_flyWeight_demo.test;
 
-import com.mode.no4_flyWeight.code.Circle;
-import com.mode.no4_flyWeight.code.ShapeFactory;
+import com.mode.no04_flyWeight_demo.code.Circle;
+import com.mode.no04_flyWeight_demo.code.ShapeFactory;
 
 public class FlyWeightTest {
 
